@@ -1,0 +1,5730 @@
+[
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 139625000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 154686000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 168154000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 139357000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 143748000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 181682000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 168405000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 161985000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 158902000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 187864000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 147836000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1993,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 176275000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 230265000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 236605000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 306000000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 288117000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 337700000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 282523000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 245142000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 235848000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 282132000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 291062000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 282987000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1994,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 292174000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 228282000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 217807000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 226091000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 136379000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 152441000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 137801000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 335605000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 410583000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 415678000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 543862000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 478476000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1995,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 577845000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 586445000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 650027000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 601515000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 551236000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 615621000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 481689000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 537540000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 526096000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 569763000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 683744000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 635372000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1996,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 600618000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 609364000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 595388000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 746192000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 497675000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 636083000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 798587000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 743048000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 815029000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 934975000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 903919000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1009587000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1997,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 908851000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 843244000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 812851000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 982128000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 865446000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 856623000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 891078000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 670535000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 755806000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 780725000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 879192000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 874743000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1998,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 890552000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 752888000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 909944000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 852789000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 997306000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1079682000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1043452000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 836141000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 967661000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1071251000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1057686000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1205532000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 1999,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1064813000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1281381000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1385619000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1344125000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1370677000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1489404000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1486926000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1375731000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1352917000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1376778000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1574223000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1619804000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2000,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1403640000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1299385000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1281416000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1414518000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1512785000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1525486000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1539304000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1281235000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1360953000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1449516000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1459892000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1589553000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2001,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1396900000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1203198000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1357693000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1710236000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1651308000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1565747000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1585882000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1445551000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1584888000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1566310000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1696938000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1574628000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2002,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1483195000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1254526000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1213992000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1374975000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1477039000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1431469000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1460659000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1410103000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1288113000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1406758000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1417163000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1560770000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2003,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1671033000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1228994000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1312116000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1513411000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1467930000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1532102000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1550113000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1371111000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1606020000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1574602000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1765421000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1975279000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2004,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1717575000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1546687000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1588287000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1627149000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1766405000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1817380000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1753760000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1693822000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1782898000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1778858000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2100851000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2183397000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2005,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2404265000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1806761000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1875550000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2039841000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1883948000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1920141000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1998300000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1787347000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2128310000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2196001000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2413604000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2453673000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2006,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2542991000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1940328000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2074042000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2126128000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2115802000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2343362000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2138140000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2109972000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2284387000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2257676000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2518278000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2442539000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2007,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2406367000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2125614000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2188121000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2234070000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2132344000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2163156000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2156641000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2087981000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2330190000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2317036000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2438515000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2282041000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2008,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2026665000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1031657000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1205258000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1468475000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1006295000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1301615000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1251631000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1282254000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1558717000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1786959000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1771952000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2533744000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2009,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2292699000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1514571000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1736069000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2068452000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1825906000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2060201000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2007014000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1838729000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2354325000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2078090000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2328332000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2663483000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2010,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2237051000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1909453000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2093014000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2200297000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1995764000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2343801000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2308267000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2328611000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2730973000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2495710000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2542773000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2864932000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2011,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2757450000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2197534000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2458420000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2629820000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2675891000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2751149000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2704654000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2667510000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2779921000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2554351000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2941697000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3283035000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2012,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2782970000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2498685000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2651416000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2752251000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3041145000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2872672000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2653645000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2706481000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2822582000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2660373000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3104818000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3040374000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2013,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2589321000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2443727000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2604007000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2933747000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2826507000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3103150000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3426990000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2889639000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3210934000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2908078000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3376221000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3216630000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2014,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2795982000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2779011000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2698690000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3267163000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3128924000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3128143000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3214827000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2951755000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3173415000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2978982000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3463675000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3391837000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2015,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3090202000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2735555000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2845159000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2973416000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3447402000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3164924000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3057168000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2805908000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3280953000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3148033000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3240796000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3418126000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2016,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3126745000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2876496000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3052918000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3787976000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2945204000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3859610000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3645514000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3205400000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3581632000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3438104000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3808936000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3765944000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2017,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3676320000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3384754000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3079623000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3946467000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3393138000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3796301000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3549316000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3409730000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3983033000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3441800000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 4008445000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3896679000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2018,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3168365000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3289183000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3397838000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3504098000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3421333000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3871900000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3428891000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3923867000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3808406000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3466231000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3861237000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3528213000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2019,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3184006000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3091970000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3119451000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3209810000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1544529000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 998123000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1843737000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2285679000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2667884000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3215870000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3464522000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3428915000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2020,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3197164000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3141800000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2806035000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3587691000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3024047000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3301521000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3243158000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3321172000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3247655000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3125314000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3295220000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3510260000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2021,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3576162000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2696877000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3737612000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 4055261000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3773823000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 4179626000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 4191455000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3711577000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 4357620000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 4431628000
+ },
+ {
+  "id": 1,
+  "tipo": "Importaciones",
+  "anio": 2022,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 4385526000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 373092000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 539540000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 496922000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 578736000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 578004000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 733936000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 532850000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 490368000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 670754000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 725918000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 677894000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1993,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 652776000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 582403000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 560028000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 745728000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 653468000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 739960000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 757666000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 639203000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 675635000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 696340000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 656191000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 971282000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1994,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 730029000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 993382000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 901185000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 975263000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 822908000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1083387000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1010298000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 882611000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 938414000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1077443000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1268698000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1151829000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1995,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1117324000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1357432000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1293958000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1339034000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1333698000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1405070000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1317220000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1358425000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1310608000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1422221000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1532323000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1385082000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1996,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1495455000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1433382000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1180937000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1445676000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1336626000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1403827000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1527965000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1479969000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1307804000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1445122000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1870936000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1596176000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1997,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1786635000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1479164000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1388190000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1631216000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1757632000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1627056000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 1759994000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1165921000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 1345156000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 1740951000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 1820898000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1807468000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1998,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1996638000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1532949000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 1840735000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 1994902000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 1894697000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1887679000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2100433000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 1936966000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2034420000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2212176000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2092932000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 1861143000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 1999,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2053111000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1928171000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2252294000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2156236000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2061117000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2431558000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2414840000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2248225000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2447056000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2277514000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2915729000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2899294000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2000,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2125883000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2163740000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2006079000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2414189000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2119942000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2628968000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2525623000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2221911000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2507916000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2402173000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2575458000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2305816000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2001,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2046540000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2085822000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2169283000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2115245000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2546691000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2596503000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2333782000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2155556000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2657880000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2420342000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2493825000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2382812000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2002,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 1929796000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2013961000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2218175000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2304130000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2237026000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2453692000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2406795000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2231271000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2289872000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2311658000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2534888000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2161094000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2003,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2122307000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1828869000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2208344000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2553218000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2347991000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2489193000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2620369000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2207634000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2547058000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2542844000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 2730364000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 2227204000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2004,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 2259492000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1762695000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2338073000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2392476000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2579995000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2719620000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2652881000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2013228000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 2864502000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 2985385000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3073504000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3386025000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2005,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3324055000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3178993000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3028118000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3581206000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3166220000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3422785000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3666855000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2600478000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3247239000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3367042000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3549327000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3416562000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2006,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3270074000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 2458847000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2886818000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3644960000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3076394000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3563213000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3962131000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3166436000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 4129278000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3945605000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 4121618000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3673712000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2007,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3269700000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3069302000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3631759000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 3702572000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 3793635000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 3839046000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 3755820000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3313069000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3647197000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3480517000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 4172403000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3340877000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2008,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 3075412000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 1618969000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 2145570000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 2624560000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2550636000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 2230164000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 2173370000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 2257129000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 3025239000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 3361512000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 3935970000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 3789868000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2009,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 4042799000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3352777000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 3795816000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 4654341000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 4133960000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 4122567000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 4365584000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 3699847000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 4806298000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 4624958000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 4784585000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 4856637000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2010,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 4541899000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 3863093000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 4616115000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 5588103000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 4904187000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 5210656000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 5563515000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 5114734000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 5488524000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 5701720000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 5800334000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 5728417000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2011,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 5321356000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 4467641000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 5541722000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 6201466000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 5948087000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 5799717000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 6305917000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 6042908000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 5974515000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 5554184000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 6396754000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 6407778000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2012,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 5632157000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 4863446000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 5766247000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 6805794000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 6258467000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 6746043000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 6979056000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 6222252000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 7016663000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 6800974000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 7011215000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 6810107000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2013,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 5912727000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 5029609000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 6500767000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 7402139000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 6991287000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 7402288000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 7341348000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 7017343000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 7869835000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 7375207000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 8446215000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 7542109000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2014,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 7037747000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 5966008000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 6671678000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 8517037000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 8012380000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 7613774000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 8240887000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 7509797000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 7482996000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 7735558000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 7960774000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 7327071000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2015,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 7325766000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 6095135000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 7194348000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 7292936000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 7069260000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 7302570000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 7491789000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 6623227000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 7458871000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 7819911000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 7623823000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 8418936000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2016,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 7691502000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 6239591000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 7647343000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 9012933000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 7579710000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 8530760000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 9211582000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 7772253000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 9082221000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 8883213000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 9380595000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 9806450000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2017,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 8593459000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 6870036000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 9180326000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 10901001000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 9318580000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 9027436000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 9891173000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 9036634000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 10185622000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 10707070000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 10808730000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 10197381000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2018,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 9385994000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 7305162000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 9412539000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 11053836000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 10426029000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 10810132000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 10445216000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 10538917000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 11350170000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 10237312000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 10099446000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 9918172000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2019,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 9684853000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 8239158000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 9777271000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 10491171000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 2102268000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 1098404000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 7134258000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 9525262000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 9921278000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 10302314000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 11480708000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 9802480000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2020,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 10818001000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 8504074000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 8706914000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 9491837000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 10340422000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 10523016000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 10067204000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 8286195000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 8447539000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 9399495000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 8687906000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "NOVIEMBRE",
+  "mes": 11,
+  "valor": 11382616000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2021,
+  "mesnom": "DICIEMBRE",
+  "mes": 12,
+  "valor": 10469489000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "ENERO",
+  "mes": 1,
+  "valor": 6624599000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "FEBRERO",
+  "mes": 2,
+  "valor": 11797169000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "MARZO",
+  "mes": 3,
+  "valor": 11706255000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "ABRIL",
+  "mes": 4,
+  "valor": 10778910000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "MAYO",
+  "mes": 5,
+  "valor": 11394970000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "JUNIO",
+  "mes": 6,
+  "valor": 11930813000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "JULIO",
+  "mes": 7,
+  "valor": 9580378000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "AGOSTO",
+  "mes": 8,
+  "valor": 12476553000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "SEPTIEMBRE",
+  "mes": 9,
+  "valor": 13527863000
+ },
+ {
+  "id": 2,
+  "tipo": "Exportaciones",
+  "anio": 2022,
+  "mesnom": "OCTUBRE",
+  "mes": 10,
+  "valor": 12177882000
+ }
+]
